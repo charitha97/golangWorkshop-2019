@@ -1,2 +1,2 @@
 # golangWorkshop-2019
-Golang Workshop
+Basic concepts of GO with examples
